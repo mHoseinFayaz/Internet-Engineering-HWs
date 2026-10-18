@@ -1,4 +1,4 @@
-::: {dir="rtl" lang="fa" style="text-align: right; font-family: Vazirmatn, Tahoma, sans-serif;"}
+
 # پاسخ تمرین Git
 
 > **نکتهٔ نمایش:** برای راست‌چین‌بودن متن فارسی از `dir="rtl"` و
